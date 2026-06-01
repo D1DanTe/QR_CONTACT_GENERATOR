@@ -1,0 +1,11 @@
+venv/
+build/
+dist/
+__pycache__/
+
+.DS_Store
+
+*.pyc
+*.pyo
+
+current_qr.png
